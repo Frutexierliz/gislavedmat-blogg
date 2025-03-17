@@ -1,0 +1,4 @@
+baseURL = "http://localhost:1313/"
+languageCode = "sv-se"
+title = "Min Personliga Blogg"
+theme = "ananke"
